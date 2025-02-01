@@ -56,6 +56,10 @@ print(me.fun_fact())
 ```
 
 ---
+###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Handa1810/Handa1810/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
