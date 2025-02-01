@@ -57,4 +57,5 @@ print(me.fun_fact())
 
 ---
 
-<br clear="both"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Handa1810/Handa1810/output/snake.svg" alt="Snake animation" />
