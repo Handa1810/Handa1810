@@ -40,7 +40,7 @@ class YashHanda:
     def __init__(self):
         self.name = "Yash Handa"
         self.role = "Python Developer | Data Scientist"
-        self.languages = ["Python", "SQL", "C++", "Java","HTML"]
+        self.languages = ["Python", "SQL", "C++", "Java","HTML5", "CSS3"]
         self.tools = ["TensorFlow", "PostgreSQL", "Streamlit", "Flask"]
         self.exploration = ["Sequence Modeling", "Pre-training & Fine-tuning", "Neural Network Optimization"]
         self.interests = ["Blockchain", "Deep Learning", "Neural Networks", "Backend Development"]
@@ -56,10 +56,10 @@ print(me.fun_fact())
 ```
 
 ---
-###
 
-<br clear="both">
+## 🔥 **🌐 Social Connections**
+I’d love to connect with like-minded people and explore collaboration opportunities! Feel free to reach out to me through any of the platforms below:
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+- **LinkedIn: [Yash Handa](https://www.linkedin.com/in/yashhanda18/)**
+- **Instagram: @yaaaaasshhh**
+- **Email: hyash2455@gmail.com**
