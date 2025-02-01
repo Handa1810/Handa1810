@@ -57,7 +57,7 @@ print(me.fun_fact())
 
 ---
 
-## 🔥 **🌐 Social Connections**
+## **🌐 Social Connections**
 I’d love to connect with like-minded people and explore collaboration opportunities! Feel free to reach out to me through any of the platforms below:
 
 - **LinkedIn: [Yash Handa](https://www.linkedin.com/in/yashhanda18/)**
